@@ -1,0 +1,101 @@
+[
+  {
+    "lane_id": "L1",
+    "points": [[0, 0], [10, 0], [20, 1], [30, 1]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "L2",
+    "points": [[0, 5], [10, 5], [20, 6], [30, 6]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "L3",
+    "points": [[0, 10], [10, 11], [20, 12], [30, 13]],
+    "speed_limit": 40
+  },
+  {
+    "lane_id": "L4",
+    "points": [[0, 15], [10, 15], [20, 15], [30, 16]],
+    "speed_limit": 45
+  },
+  {
+    "lane_id": "L5",
+    "points": [[0, 20], [8, 21], [16, 21], [24, 22]],
+    "speed_limit": 30
+  },
+  {
+    "lane_id": "L6",
+    "points": [[5, -5], [15, -4], [25, -4], [35, -3]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "L7",
+    "points": [[5, -10], [15, -10], [25, -9], [35, -9]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "L8",
+    "points": [[5, -15], [15, -14], [25, -13], [35, -12]],
+    "speed_limit": 40
+  },
+  {
+    "lane_id": "DUP1",
+    "points": [[40, 0], [50, 0], [60, 1]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "DUP1",
+    "points": [[40, 5], [50, 5], [60, 6]],
+    "speed_limit": 35
+  },
+  {
+    "points": [[40, 10], [50, 10], [60, 11]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "",
+    "points": [[40, 15], [50, 15], [60, 15]],
+    "speed_limit": 35
+  },
+  {
+    "lane_id": "FEW1",
+    "points": [[70, 0]],
+    "speed_limit": 25
+  },
+  {
+    "lane_id": "BAD1",
+    "points": [[70, 5], [80, null], [90, 5]],
+    "speed_limit": 25
+  },
+  {
+    "lane_id": "BAD2",
+    "points": [[70, 10], ["east", 10], [90, 11]],
+    "speed_limit": 25
+  },
+  {
+    "lane_id": "BAD3",
+    "points": [[70, 15], [80, 15, 16], [90, 16]],
+    "speed_limit": 25
+  },
+  {
+    "lane_id": "TURN1",
+    "points": [[100, 0], [110, 0], [102, 2], [95, 2]],
+    "speed_limit": 30
+  },
+  {
+    "lane_id": "TURN2",
+    "points": [[100, 8], [112, 8], [103, 1], [94, 1]],
+    "speed_limit": 30
+  },
+  {
+    "lane_id": "L19",
+    "points": [[100, 16], [110, 17], [120, 17], [130, 18]],
+    "speed_limit": 45
+  },
+  {
+    "lane_id": "L20",
+    "points": [[100, 24], [110, 24], [120, 25], [130, 25]],
+    "speed_limit": 45
+  }
+]
